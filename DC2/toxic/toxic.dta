@@ -1,0 +1,51 @@
+(toxic
+   (name
+      "Toxic")
+   (artist
+      "Britney Spears")
+   ;(cover TRUE)
+   (song_id 6031)
+   (game_origin ham2)
+   (song
+      (name
+         "songs/toxic/toxic")
+      (tracks
+         ((drum
+               (0 1))
+            (vocals
+               (2 3))))
+      (pans
+         (-1.0 1.0 -1.0 1.0))
+      (vols
+         (-4.4 -4.4 -4.5 -4.5)))
+   (preview 101000 131000)
+   (rank 689)
+   (format 2)
+   (version 10)
+   (rating 2)
+   (character jaryn)
+   (gender kGenderFemale)
+   (bpm 143)
+   (song_length 151048)
+   (pronunciation
+      ("Toxic"))
+   (pronunciation_loc
+      (deu
+         ("/Toxic/Toxic/T AA K S IH K;"))
+      (esl
+         ("/Toxic/Toxic/T O GH S I K;"
+            "/Toxic/Toxic/T O GH S E K;"))
+      (frc
+         ("/Toxic/Toxic/T AO K S I K;"
+            "/Toxic/Toxic/T AO K S IH K;"))
+      (fre
+         ("/Toxic/Toxic/T AO K S I K;"
+            "/Toxic/Toxic/T AO K S IH K;"))
+      (ita
+         ("/Toxic/Toxic/T AO G S I K;"
+            "/Toxic/Toxic/T AO G S E K;"))
+      (jpn
+         ("/トキシック/ときしっく/トキシック;"))
+      (mex
+         ("/Toxic/Toxic/T O GH S I K;"
+            "/Toxic/Toxic/T O GH S E K;"))))
