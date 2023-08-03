@@ -23,6 +23,7 @@
    (format 2)
    (version 10)
    (rating 2)
+   (album_name "In The Zone")
    (character jaryn)
    (gender kGenderFemale)
    (bpm 143)
